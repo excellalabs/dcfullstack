@@ -13,8 +13,8 @@ Presentations or similar events should not be stopped for one-time gaffes or min
 Organizers will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance, and want you to feel comfortable, safe, and supported.
 
 - To report any form of harassment or to seek immediate help, contact conference organizers:
-  - Doguhan Uluca - 540-257-5143 - doguhan.uluca@excella.com
-  - Pat Leong - patrick.leong@excella.com
+  - Doguhan Uluca - (540) 257-5143 - doguhan.uluca@excella.com
+  - Pat Leong - (703) 919-1085 - patrick.leong@excella.com
 
 - To file a police report, contact 911.
 
