@@ -1,0 +1,23 @@
+{
+  "name": "dcfullstack",
+  "version": "1.0.0",
+  "description": "Website for the DC Full-Stack Web Summit",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "image:build": "docker build . -t duluca/dcfullstack",
+    "image:run": "docker run -p 8080:3000 duluca/dcfullstack",
+    "image:publish": "docker push duluca/dcfullstack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/excellalabs/dcfullstack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/excellalabs/dcfullstack/issues"
+  },
+  "homepage": "https://github.com/excellalabs/dcfullstack#readme"
+}
